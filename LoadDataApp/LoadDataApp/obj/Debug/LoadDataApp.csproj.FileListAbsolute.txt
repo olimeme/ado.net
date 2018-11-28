@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\LoadDataApp\LoadDataApp\bin\Debug\LoadDataApp.exe.config
+C:\Users\Lenovo\source\repos\LoadDataApp\LoadDataApp\bin\Debug\LoadDataApp.exe
+C:\Users\Lenovo\source\repos\LoadDataApp\LoadDataApp\bin\Debug\LoadDataApp.pdb
+C:\Users\Lenovo\source\repos\LoadDataApp\LoadDataApp\obj\Debug\LoadDataApp.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\LoadDataApp\LoadDataApp\obj\Debug\LoadDataApp.Form1.resources
+C:\Users\Lenovo\source\repos\LoadDataApp\LoadDataApp\obj\Debug\LoadDataApp.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\LoadDataApp\LoadDataApp\obj\Debug\LoadDataApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\LoadDataApp\LoadDataApp\obj\Debug\LoadDataApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\LoadDataApp\LoadDataApp\obj\Debug\LoadDataApp.exe
+C:\Users\Lenovo\source\repos\LoadDataApp\LoadDataApp\obj\Debug\LoadDataApp.pdb
