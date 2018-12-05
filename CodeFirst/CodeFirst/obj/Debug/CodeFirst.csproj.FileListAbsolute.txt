@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\Lenovo\source\repos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\Lenovo\source\repos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\Lenovo\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\CodeFirst\CodeFirst\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Lenovo\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\Lenovo\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
