@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\OnlineShope\OnlineShope\bin\Debug\OnlineShope.exe.config
+C:\Users\Lenovo\source\repos\OnlineShope\OnlineShope\bin\Debug\OnlineShope.exe
+C:\Users\Lenovo\source\repos\OnlineShope\OnlineShope\bin\Debug\OnlineShope.pdb
+C:\Users\Lenovo\source\repos\OnlineShope\OnlineShope\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\OnlineShope\OnlineShope\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\OnlineShope\OnlineShope\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\OnlineShope\OnlineShope\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\OnlineShope\OnlineShope\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Lenovo\source\repos\OnlineShope\OnlineShope\obj\Debug\OnlineShope.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\OnlineShope\OnlineShope\obj\Debug\OnlineShope.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OnlineShope\OnlineShope\obj\Debug\OnlineShope.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\OnlineShope\OnlineShope\obj\Debug\OnlineShope.exe
+C:\Users\Lenovo\source\repos\OnlineShope\OnlineShope\obj\Debug\OnlineShope.pdb
