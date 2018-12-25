@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\LinqHW\LinqHW\bin\Debug\LinqHW.exe.config
+C:\Users\Lenovo\source\repos\LinqHW\LinqHW\bin\Debug\LinqHW.exe
+C:\Users\Lenovo\source\repos\LinqHW\LinqHW\bin\Debug\LinqHW.pdb
+C:\Users\Lenovo\source\repos\LinqHW\LinqHW\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\LinqHW\LinqHW\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\LinqHW\LinqHW\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\LinqHW\LinqHW\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\LinqHW\LinqHW\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Lenovo\source\repos\LinqHW\LinqHW\obj\Debug\LinqHW.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\LinqHW\LinqHW\obj\Debug\LinqHW.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\LinqHW\LinqHW\obj\Debug\LinqHW.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\LinqHW\LinqHW\obj\Debug\LinqHW.exe
+C:\Users\Lenovo\source\repos\LinqHW\LinqHW\obj\Debug\LinqHW.pdb
